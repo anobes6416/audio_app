@@ -3,7 +3,7 @@ import 'dart:ui';
 
 final Color background = Color(0xFFfafafc);
 final Color sliverBackround = Color(0xFFfafafc);
-final Color menu1Color = Color(0xFF9d263);
+final Color menu1Color = Color(0xFFf9d263);
 final Color menu2Color = Color(0xFFf2603d);
 final Color menu3Color = Color(0xFF04abe6);
 final Color tabVarViewColor =Color(0xFFfdfdfd);

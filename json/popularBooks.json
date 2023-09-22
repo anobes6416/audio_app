@@ -1,0 +1,44 @@
+[
+    {
+        "rating": "4.8",
+        "title": "KANKOT",
+        "text": "SEBONA IFA",
+        "img": "pic-9.jpg",
+        "audio":"voices.mp3"
+    },
+    {
+        "rating": "4.7",
+        "title": "FLUTTER APP",
+        "text": "DURSA IFA",
+        "img": "pic-8.jpg",
+        "audio":"voices.mp3"
+    },
+    {
+        "rating": "4.6",
+        "title": "PHP",
+        "text": "JIRENYA BEENYA",
+        "img": "pic-7.jpg",
+        "audio":"voices.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title": "LARAVEL",
+        "text": "HUNDUMA GUDATA",
+        "img": "pic-5.jpg",
+        "audio":"voices.mp3"
+    },
+    {
+        "rating": "4.8",
+        "title": "JAVASCRIPT",
+        "text": "BONSA IFA",
+        "img": "pic-4.jpg",
+        "audio":"voices.mp3"
+    },
+    {
+        "rating": "4.8",
+        "title": "THEOLOGY",
+        "text": "KEBEKI IFA",
+        "img": "pic-2.jpg",
+        "audio":"voices.mp3"
+    }
+]
